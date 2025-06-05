@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Category--None--</name>
+   <tag></tag>
+   <elementGuidId>0bc0e4bd-c269-48a6-98af-9ceec980b245</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#field-section-content-101 > slot[name=&quot;columns&quot;] > flexipage-column2.column.flex-width > div.slds-col.slds-p-horizontal_small.slds-p-vertical_x-small > slot.column > flexipage-field > slot > record_flexipage-record-field.slds-grid.slds-col.slds-has-flexi-truncate > div.slds-grid.slds-size_1-of-1.label-stacked.undefined > div.test-id__field-value.slds-size_1-of-1.field_textarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//dl[@id='field-section-content-101']/slot/flexipage-column2/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^\*Category--None--$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b70518c-a4f2-4ca2-8115-40abceda467d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>test-id__field-value slds-size_1-of-1 field_textarea</value>
+      <webElementGuid>a93de443-c7d3-4d4a-91f6-26cc9c7c0535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*Category--None--</value>
+      <webElementGuid>9d4080b6-9673-4a09-87b2-9e29737a85bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;field-section-content-101&quot;)/slot[1]/flexipage-column2[@class=&quot;column flex-width&quot;]/div[@class=&quot;slds-col slds-p-horizontal_small slds-p-vertical_x-small&quot;]/slot[@class=&quot;column&quot;]/flexipage-field[1]/slot[1]/record_flexipage-record-field[@class=&quot;slds-grid slds-col slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-stacked undefined&quot;]/div[@class=&quot;test-id__field-value slds-size_1-of-1 field_textarea&quot;]</value>
+      <webElementGuid>d4b339b7-ad4f-4819-b546-e0959f1a3bf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dl[@id='field-section-content-101']/slot/flexipage-column2/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]</value>
+      <webElementGuid>34f04e92-62b2-4c52-8f8b-1db51c558abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attribute'])[1]/following::div[4]</value>
+      <webElementGuid>f03d68eb-da4e-42bd-a60e-8c244d6a38fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comments'])[1]/following::div[8]</value>
+      <webElementGuid>5a83902f-8878-4d0f-9ec2-4ea1a32229ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//flexipage-component2[2]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/dl/slot/flexipage-column2/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]</value>
+      <webElementGuid>e9bbe1bc-7d99-414e-a36a-87c7188c4e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '*Category--None--' or . = '*Category--None--')]</value>
+      <webElementGuid>692ca5b6-1452-4235-8430-14cc5d72502b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

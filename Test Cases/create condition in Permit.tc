@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create condition in Permit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3af6e0b3-700c-49aa-a40d-10b15a7362cc</testCaseGuid>
+</TestCaseEntity>

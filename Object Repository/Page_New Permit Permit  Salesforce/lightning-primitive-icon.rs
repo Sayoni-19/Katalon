@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lightning-primitive-icon</name>
+   <tag></tag>
+   <elementGuidId>f3e74ffd-806e-4907-9f9f-756a080afef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-button-icon.slds-input__icon.slds-input__icon_right > button.slds-button.slds-button_icon.slds-button_icon-bare > lightning-primitive-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//dl[@id='field-section-content-87']/slot/flexipage-column2/div/slot/flexipage-field[6]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-date-time/lightning-input/lightning-datetimepicker/div/fieldset/div/div/div/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Issued Date &amp; Time&quot;i] >> internal:attr=[title=&quot;Select a date for Date&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>lightning-primitive-icon</value>
+      <webElementGuid>98e45589-7846-4c8a-8cb7-049966a05ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>exportparts</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>4bc8f973-4ad9-4c36-b98a-37f10200794a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>bare</value>
+      <webElementGuid>d4d4a529-12d3-4315-ae74-d1eaa147a455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;field-section-content-87&quot;)/slot[1]/flexipage-column2[@class=&quot;column flex-width&quot;]/div[@class=&quot;slds-col slds-p-horizontal_small slds-p-vertical_x-small&quot;]/slot[@class=&quot;column&quot;]/flexipage-field[6]/slot[1]/record_flexipage-record-field[@class=&quot;slds-grid slds-col slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-stacked undefined&quot;]/div[@class=&quot;test-id__field-value slds-size_1-of-1 field_textarea&quot;]/slot[1]/records-record-layout-input-date-time[1]/lightning-input[@class=&quot;slds-form-element slds-form-element_stacked&quot;]/lightning-datetimepicker[1]/div[@class=&quot;slds-form&quot;]/fieldset[@class=&quot;slds-form-element slds-form-element_compound&quot;]/div[@class=&quot;slds-form-element__control&quot;]/div[@class=&quot;slds-form-element__group&quot;]/div[@class=&quot;slds-form-element__row&quot;]/lightning-datepicker[@class=&quot;slds-form-element&quot;]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-size_1-of-1&quot;]/div[@class=&quot;slds-form-element__control slds-input-has-icon slds-input-has-icon_right&quot;]/lightning-button-icon[@class=&quot;slds-input__icon slds-input__icon_right&quot;]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-bare&quot;]/lightning-primitive-icon[1]</value>
+      <webElementGuid>54a1a7a3-3a04-4a9f-8098-4303e4517c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//dl[@id='field-section-content-87']/slot/flexipage-column2/div/slot/flexipage-field[6]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-date-time/lightning-input/lightning-datetimepicker/div/fieldset/div/div/div/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>e272c02f-47bd-46a4-a022-1367dc9d83d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>2d51815c-216a-4765-afa6-1acb50cc6572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for Date'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>7e2800ce-5108-47c6-90c9-db3e15042d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format: 12/31/2024'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>ea4bb609-941a-4de3-b61c-2c769ca1cefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>58f791af-261e-450b-b0de-aa7edececfcd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
