@@ -6,12 +6,12 @@
    <elementGuidId>3b5a98ce-3d17-4a21-a355-b40774f5c6a9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(3) > label.slds-radio > div.changeRecordTypeOptionLeftColumn > span.slds-radio--faux</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='content_446:0']/div/div/div/div/div/div/fieldset/div/div[3]/label/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > label.slds-radio > div.changeRecordTypeOptionLeftColumn > span.slds-radio--faux</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>783f56a2-4af7-4b8b-ac6d-fb0de5b8106f</webElementGuid>
+      <webElementGuid>49d812c4-a5f8-4191-829f-d3afdd119bd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-radio--faux</value>
-      <webElementGuid>7705c697-dcac-4dc4-a2f9-38593c968619</webElementGuid>
+      <webElementGuid>d3ab319e-7269-4de1-b4b6-78d1e67e9cdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-aura-rendered-by</name>
       <type>Main</type>
       <value>586:0</value>
-      <webElementGuid>99d0009f-d530-4a9d-ba7c-0097ecb2f328</webElementGuid>
+      <webElementGuid>993ac108-d16b-4bf9-9dfc-9d7379c5cc82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content_446:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/div[@class=&quot;forceChangeRecordType&quot;]/div[@class=&quot;modal__content changeRecordTypeLeftRightContent&quot;]/div[@class=&quot;changeRecordTypeRow&quot;]/fieldset[@class=&quot;slds-form-element slds-no-space&quot;]/div[@class=&quot;changeRecordTypeRightColumn slds-form-element__control&quot;]/div[3]/label[@class=&quot;slds-radio&quot;]/div[@class=&quot;changeRecordTypeOptionLeftColumn&quot;]/span[@class=&quot;slds-radio--faux&quot;]</value>
-      <webElementGuid>900f06db-cd35-4d7e-a6bd-1e0b578486aa</webElementGuid>
+      <webElementGuid>91ba0b8b-0cb8-4b7d-8d01-f522d02831de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content_446:0']/div/div/div/div/div/div/fieldset/div/div[3]/label/div/span</value>
-      <webElementGuid>d9ada98a-a181-4ec1-b279-1ee31a62d830</webElementGuid>
+      <webElementGuid>34c44874-ce97-4d0f-ac8f-4bb828b97b63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label/div/span</value>
-      <webElementGuid>836e582d-3528-493a-b525-baa0ed9a8fb4</webElementGuid>
+      <webElementGuid>ceae32ed-d49a-41cb-b800-240c2e331187</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

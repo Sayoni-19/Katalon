@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d061abfa-0d89-4f30-b125-b490c468e11a</webElementGuid>
+      <webElementGuid>a968f4d9-4a6b-4ac3-bc83-be7959a777af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-button slds-button_brand</value>
-      <webElementGuid>a560a8b4-591e-4a65-9963-b56e420f7772</webElementGuid>
+      <webElementGuid>8b60e8e2-deb8-47df-a331-9e7daaac8e26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>52ed3276-6743-47fe-a18f-826d8a709410</webElementGuid>
+      <webElementGuid>8af23f55-f408-4df2-be2b-fb472b768261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>SaveEdit</value>
-      <webElementGuid>c93fd467-2e23-4e94-9a04-14f57e50a067</webElementGuid>
+      <webElementGuid>c26bf342-45ab-46c9-b008-4f32a5abd3eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>051477e5-17eb-45c4-8909-540d7df7eb99</webElementGuid>
+      <webElementGuid>e1861bfd-b6f2-41e3-8658-2172fe64ffab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>part</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60bf519e-bc4d-4ce8-a31a-c35ed24c258c</webElementGuid>
+      <webElementGuid>210c1c08-89a6-423d-bc54-ff51fa49ccb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>kx-scope</name>
       <type>Main</type>
       <value>button-brand</value>
-      <webElementGuid>9e474acd-dac6-49c3-93f5-f4c31f50318c</webElementGuid>
+      <webElementGuid>5b16e0d1-d405-4398-a60d-e305b8ac633d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>kx-type</name>
       <type>Main</type>
       <value>ripple</value>
-      <webElementGuid>98e58cf0-35ca-415b-bc42-14a4552101a5</webElementGuid>
+      <webElementGuid>f754ff05-edc9-4720-a950-f68475b7e1fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>57843c51-f153-4cb7-8b43-ef309938e281</webElementGuid>
+      <webElementGuid>dfd190e6-78fa-49ab-bfa2-59ebc061aec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content_1676:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/one-record-action-flexipage[1]/forcegenerated-flexipage_rhythm__product_record_page11_rhythm__product__c__create_js___lmt___1741594234000[@class=&quot;forcegenerated-flexipage-module&quot;]/record_flexipage-desktop-record-page-decorator[1]/div[@class=&quot;record-page-decorator has-footer&quot;]/records-form-footer[@class=&quot;slds-docked-form-footer slds-modal__footer&quot;]/div[@class=&quot;footer-full-width&quot;]/div[@class=&quot;right-align-buttons&quot;]/div[1]/runtime_platform_actions-actions-ribbon[1]/ul[@class=&quot;slds-button-group-row&quot;]/li[@class=&quot;slds-button-group-item visible&quot;]/runtime_platform_actions-action-renderer[1]/runtime_platform_actions-executor-lwc-headless[1]/slot[1]/slot[1]/lightning-button[1]/button[@class=&quot;slds-button slds-button_brand&quot;]</value>
-      <webElementGuid>0fdb6e1a-9c9a-4491-a545-e6c7a5b0c2d8</webElementGuid>
+      <webElementGuid>e1354812-e375-420e-b2e6-9177aa417fa6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='SaveEdit']</value>
-      <webElementGuid>02243c29-7a99-4f32-b8ea-d924ced261cf</webElementGuid>
+      <webElementGuid>41706b4b-9592-4952-ab7b-90271d1a7bd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content_1676:0']/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_rhythm__product_record_page11_rhythm__product__c__create_js___lmt___1741594234000/record_flexipage-desktop-record-page-decorator/div/records-form-footer/div/div/div/runtime_platform_actions-actions-ribbon/ul/li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot/slot/lightning-button/button</value>
-      <webElementGuid>b282834c-5ebf-4a19-9a70-72c700e8ddf0</webElementGuid>
+      <webElementGuid>e4e2d439-0220-418c-97df-4e177fda85bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; New'])[1]/following::button[1]</value>
-      <webElementGuid>9d27a46f-09b1-426b-9642-727742d1eccb</webElementGuid>
+      <webElementGuid>f9f6168b-d361-49cc-a9db-04a8ee5904f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[3]/following::button[2]</value>
-      <webElementGuid>a7f72ae3-7cc5-4014-a99e-7a709bf04e30</webElementGuid>
+      <webElementGuid>8b115488-d015-4af6-9428-e12d69843568</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[5]/preceding::button[1]</value>
-      <webElementGuid>39c8c6b4-e00a-4ee0-9ebf-cc764be8d5ba</webElementGuid>
+      <webElementGuid>f09070f4-713a-4ebf-b695-2007a81a9b42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot/slot/lightning-button/button</value>
-      <webElementGuid>55e36aac-be37-407b-a9fa-c2640b471f1d</webElementGuid>
+      <webElementGuid>dc62b58c-a913-441f-bc55-2d65ed415203</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'SaveEdit' and @type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>c3d2a849-d93d-4e51-a470-fc718e7aa83c</webElementGuid>
+      <webElementGuid>256dd908-5e95-4a95-9681-cd7d24094968</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

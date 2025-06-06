@@ -6,12 +6,12 @@
    <elementGuidId>5b2cd6d2-3103-4a8d-a23c-b089256f0dba</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>lightning-button-icon.slds-input__icon.slds-input__icon_right > button.slds-button.slds-button_icon.slds-button_icon-bare > lightning-primitive-icon</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//dl[@id='field-section-content-87']/slot/flexipage-column2/div/slot/flexipage-field[6]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-date-time/lightning-input/lightning-datetimepicker/div/fieldset/div/div/div/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-button-icon.slds-input__icon.slds-input__icon_right > button.slds-button.slds-button_icon.slds-button_icon-bare > lightning-primitive-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>lightning-primitive-icon</value>
-      <webElementGuid>80ab9a5d-cd67-4eaf-ae4c-68419cdc2368</webElementGuid>
+      <webElementGuid>dbee940a-a4d6-4599-86fb-f8e579a42536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>exportparts</name>
       <type>Main</type>
       <value>icon</value>
-      <webElementGuid>f1e3b79e-e292-4ea5-9873-c161b104f95f</webElementGuid>
+      <webElementGuid>483a3fa7-00a1-41e0-b64c-2abdd39bf0d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>variant</name>
       <type>Main</type>
       <value>bare</value>
-      <webElementGuid>5cd5422a-bb63-4673-940f-274cb42da612</webElementGuid>
+      <webElementGuid>94793bbb-b121-4c84-a090-b334b01c691c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;field-section-content-87&quot;)/slot[1]/flexipage-column2[@class=&quot;column flex-width&quot;]/div[@class=&quot;slds-col slds-p-horizontal_small slds-p-vertical_x-small&quot;]/slot[@class=&quot;column&quot;]/flexipage-field[6]/slot[1]/record_flexipage-record-field[@class=&quot;slds-grid slds-col slds-has-flexi-truncate&quot;]/div[@class=&quot;slds-grid slds-size_1-of-1 label-stacked undefined&quot;]/div[@class=&quot;test-id__field-value slds-size_1-of-1 field_textarea&quot;]/slot[1]/records-record-layout-input-date-time[1]/lightning-input[@class=&quot;slds-form-element slds-form-element_stacked&quot;]/lightning-datetimepicker[1]/div[@class=&quot;slds-form&quot;]/fieldset[@class=&quot;slds-form-element slds-form-element_compound&quot;]/div[@class=&quot;slds-form-element__control&quot;]/div[@class=&quot;slds-form-element__group&quot;]/div[@class=&quot;slds-form-element__row&quot;]/lightning-datepicker[@class=&quot;slds-form-element&quot;]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-size_1-of-1&quot;]/div[@class=&quot;slds-form-element__control slds-input-has-icon slds-input-has-icon_right&quot;]/lightning-button-icon[@class=&quot;slds-input__icon slds-input__icon_right&quot;]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-bare&quot;]/lightning-primitive-icon[1]</value>
-      <webElementGuid>c4cee65d-b0ec-438a-af5b-07e52eda5d84</webElementGuid>
+      <webElementGuid>3ccc9893-e930-40b4-8a6d-95281e922d15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//dl[@id='field-section-content-87']/slot/flexipage-column2/div/slot/flexipage-field[6]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-date-time/lightning-input/lightning-datetimepicker/div/fieldset/div/div/div/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
-      <webElementGuid>67f548cd-f74b-49dd-9ec4-431d279767ef</webElementGuid>
+      <webElementGuid>4f172133-a936-469f-a2d8-d5247cceacc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::lightning-primitive-icon[1]</value>
-      <webElementGuid>027e6fda-83ce-4850-9ad1-5a46bc43af66</webElementGuid>
+      <webElementGuid>b07d3e29-5c68-4c0c-b82b-5c4cbd1d1dd9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for Date'])[1]/preceding::lightning-primitive-icon[1]</value>
-      <webElementGuid>a0d8202f-9440-4cdc-a08b-451bda2e1c54</webElementGuid>
+      <webElementGuid>f24a6eb6-ec71-4d82-b332-5adf59c9a59f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Format: 12/31/2024'])[1]/preceding::lightning-primitive-icon[1]</value>
-      <webElementGuid>89f9307c-79b0-48ac-a8a5-2ec421d59c3c</webElementGuid>
+      <webElementGuid>9e82cee1-6c9a-4d77-a8fa-cb4ea4dd2b62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
-      <webElementGuid>bb46a890-144e-4d58-868d-cd2aaf2b045b</webElementGuid>
+      <webElementGuid>43518b5c-587f-4064-ab61-8b88df21a189</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

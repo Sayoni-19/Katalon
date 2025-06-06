@@ -6,12 +6,12 @@
    <elementGuidId>551594df-220c-430b-a5b3-5014d2f055de</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.slds-p-right_small</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Concern'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.slds-p-right_small</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>97ad3b7a-4d91-4242-9bfb-9023ea115bfc</webElementGuid>
+      <webElementGuid>a6572329-1698-41ce-993c-b7b79326435b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-p-right_small</value>
-      <webElementGuid>f4475f99-13ff-49b5-a253-5ba95b075797</webElementGuid>
+      <webElementGuid>0fe55c5d-c624-4730-a442-353704ccd9ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3eb79c3f-34bf-4d25-be8a-ab92f3878d68</webElementGuid>
+      <webElementGuid>7d1ca87b-34c4-482b-8545-29cdd82295ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>More</value>
-      <webElementGuid>929a71c4-944b-4bef-987d-d6a43ac2df04</webElementGuid>
+      <webElementGuid>6d64e53b-5150-438d-b274-ec46f658e98d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/one-app-nav-bar[@class=&quot;slds-grid slds-has-flexi-truncate&quot;]/nav[@class=&quot;slds-context-bar__secondary navCenter&quot;]/div[@class=&quot;slds-grid slds-has-flexi-truncate navUL&quot;]/div[@class=&quot;more-item slds-context-bar__item slds-context-bar__dropdown-trigger slds-shrink-none&quot;]/one-app-nav-bar-menu-button[@class=&quot;slds-grid slds-grid_vertical-stretch more-button slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/a[@class=&quot;slds-button slds-button_reset slds-context-bar__label-action&quot;]/span[@class=&quot;slds-p-right_small&quot;]</value>
-      <webElementGuid>ce0a49d4-c244-4b9e-9638-938126cb5aae</webElementGuid>
+      <webElementGuid>5ad1ea87-09b0-40e6-a16b-3d1a9fd7cd4a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Concern'])[1]/following::span[1]</value>
-      <webElementGuid>fba72944-5cd3-42b6-bd49-ce795bc26cfe</webElementGuid>
+      <webElementGuid>b6f50538-e6f9-4ed2-927c-a610bc2942dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Files List'])[1]/following::span[2]</value>
-      <webElementGuid>a359c351-0b55-4aa9-bea5-4f0ca3ae853b</webElementGuid>
+      <webElementGuid>220a211d-3ddb-400c-87c8-d4fdd5d8434c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more navigation items'])[1]/preceding::span[2]</value>
-      <webElementGuid>29db1fa6-4765-48ab-b6a2-aa8fabafb8c1</webElementGuid>
+      <webElementGuid>33853baa-b91c-419c-ae81-240dc4133ef0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit nav items'])[1]/preceding::span[3]</value>
-      <webElementGuid>5983e478-5725-453f-910d-24d76434720d</webElementGuid>
+      <webElementGuid>3c2a1dad-bab6-488e-b1cd-c9c650f5b927</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='More']/parent::*</value>
-      <webElementGuid>617fa405-0156-460b-9d6f-8aae3f72e06a</webElementGuid>
+      <webElementGuid>22e4998a-6c64-498b-9904-be613f21ab0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/one-app-nav-bar-menu-button/a/span</value>
-      <webElementGuid>46f6600b-cf59-44cc-9a94-566d0be1157a</webElementGuid>
+      <webElementGuid>4fd385fe-96d0-42e3-b870-45eb01ecdf75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'More' or . = 'More')]</value>
-      <webElementGuid>af050f5d-0891-41e4-80a9-f101553146d2</webElementGuid>
+      <webElementGuid>54e8334b-aae6-442c-aa1c-8bece959fa76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

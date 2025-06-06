@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__slds-input slds-combobox__input</name>
+   <tag></tag>
+   <elementGuidId>e085a5cd-56ec-427f-b427-33931cd12ac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.slds-input.slds-combobox__input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-content-id-1-1']/div/div/lightning-layout/slot/lightning-layout-item[2]/slot/c-custom-combobox/div/div/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>c-custom-combobox >> internal:has-text=&quot;* Checklist Name&quot;i >> internal:attr=[placeholder=&quot;Select an Option...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>83a51bed-0d4e-4394-ba62-5114d814fa07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-input slds-combobox__input</value>
+      <webElementGuid>fe76dd72-c171-4f05-9867-a9653d635cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>combobox</value>
+      <webElementGuid>ac36ae08-b9e1-47e4-8acf-8f980b067777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select an Option...</value>
+      <webElementGuid>c4cbcec2-aec8-4a6d-bdc2-5cde393b5ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-content-id-1-1&quot;)/div[@class=&quot;slds-grid slds-grid_vertical&quot;]/div[@class=&quot;slds-col slds-size_1-of-1&quot;]/lightning-layout[@class=&quot;slds-grid slds-wrap&quot;]/slot[@class=&quot;slds-slot&quot;]/lightning-layout-item[@class=&quot;slds-p-horizontal_small slds-m-bottom_x-small slds-size_12-of-12 slds-medium-size_6-of-12 slds-large-size_6-of-12&quot;]/slot[1]/c-custom-combobox[1]/div[@class=&quot;slds-form-element&quot;]/div[@class=&quot;slds-form-element__control&quot;]/div[@class=&quot;slds-combobox_container&quot;]/div[@class=&quot;slds-combobox slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/div[@class=&quot;slds-combobox__form-element slds-input-has-icon slds-input-has-icon_right&quot;]/input[@class=&quot;slds-input slds-combobox__input&quot;]</value>
+      <webElementGuid>d19a1557-8655-4912-8ad1-dd19ae9398f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_New Assessment  Salesforce/iframe_Edit nav items_vfFrameId_1749121533765</value>
+      <webElementGuid>31c590ab-48d4-4d70-a309-e6b1a9077d9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-content-id-1-1']/div/div/lightning-layout/slot/lightning-layout-item[2]/slot/c-custom-combobox/div/div/div/div/div/input</value>
+      <webElementGuid>71076d90-956b-4b1d-b91f-2fa7d3c8b382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/input</value>
+      <webElementGuid>541eb05f-d9e1-448f-acf4-c81c8464afd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Select an Option...']</value>
+      <webElementGuid>60ff8dc8-0f92-45b8-b4ce-8ad7d391b1e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

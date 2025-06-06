@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>05733e93-9252-4524-8298-bb03ffe19f8d</webElementGuid>
+      <webElementGuid>b9737793-5b06-4e71-9df7-7ee2aab9e71e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-radio--faux</value>
-      <webElementGuid>9615cc03-7ea1-49bb-8f31-9d84ca5814af</webElementGuid>
+      <webElementGuid>f1d0e01e-c6d3-46c0-9973-e44c3a0a5b36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-aura-rendered-by</name>
       <type>Main</type>
       <value>1816:0</value>
-      <webElementGuid>aec97b9e-a817-4372-8b5b-6a86a8457e24</webElementGuid>
+      <webElementGuid>86945ccb-b5de-4d58-8246-61ce6a8aea87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content_1676:0&quot;)/div[@class=&quot;windowViewMode-normal oneRecordActionWrapper isModal active lafPageHost&quot;]/div[@class=&quot;isModal inlinePanel oneRecordActionWrapper&quot;]/div[@class=&quot;actionBody&quot;]/div[@class=&quot;forceChangeRecordType&quot;]/div[@class=&quot;modal__content changeRecordTypeLeftRightContent&quot;]/div[@class=&quot;changeRecordTypeRow&quot;]/fieldset[@class=&quot;slds-form-element slds-no-space&quot;]/div[@class=&quot;changeRecordTypeRightColumn slds-form-element__control&quot;]/div[3]/label[@class=&quot;slds-radio&quot;]/div[@class=&quot;changeRecordTypeOptionLeftColumn&quot;]/span[@class=&quot;slds-radio--faux&quot;]</value>
-      <webElementGuid>1d460b62-1f9d-478c-a07b-8c50dfe05c15</webElementGuid>
+      <webElementGuid>10d8b279-3e79-4397-8d73-052736aa07ec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content_1676:0']/div/div/div/div/div/div/fieldset/div/div[3]/label/div/span</value>
-      <webElementGuid>5377a6b5-d634-4907-b8af-56a1daae6b12</webElementGuid>
+      <webElementGuid>ddb4bad1-7aba-45ab-966d-40aab820ada2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label/div/span</value>
-      <webElementGuid>810768d1-8a8d-443e-a9ac-3076540a5c82</webElementGuid>
+      <webElementGuid>029181ad-9a7b-47f7-b111-ffea757e7907</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

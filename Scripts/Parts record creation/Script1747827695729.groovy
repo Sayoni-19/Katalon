@@ -18,84 +18,102 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.configuration.RunConfiguration
-import org.openqa.selenium.chrome.ChromeOptions
-import com.kms.katalon.core.webui.driver.DriverFactory
 import org.openqa.selenium.WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory
+import java.util.Arrays
 
-// === Disable Chrome notifications ===
-Map<String, Object> prefs = new HashMap<>()
-prefs.put("profile.default_content_setting_values.notifications", 2)
-
-List<String> arguments = [
-    "--disable-notifications",
-    "--start-maximized",
-    "--disable-infobars"
-]
-
-ChromeOptions options = new ChromeOptions()
-options.setExperimentalOption("prefs", prefs)
-options.addArguments(arguments)
-
-RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
-RunConfiguration.setWebDriverPreferencesProperty("args", arguments)
-
+// --- LOGIN SECTION (Unchanged) ---
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://rhythm-qa-enterprise.my.salesforce.com/')
+WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Username_username'), '00dfj00000fdkisuah_john1234@yopmail.com')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw'), 'OJK6S0ghyhhqC323vSRvDg==')
+WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Username_username (1)'), '00dfj00000fdkisuah_john1234@yopmail.com')
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw (1)'), 'OJK6S0ghyhhqC323vSRvDg==')
-WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login (1)'))
+// --- Post-login actions with visibility + fallback ---
+WebUI.waitForPageLoad(30)
+WebUI.delay(3)
 
-// === Click Parts Compliance tab with JS fallback ===
-TestObject partsTab = findTestObject('Object Repository/Page_My Company  Salesforce/span_Parts Compliance (1)')
+// Click "Parts Compliance"
+TestObject partsTab = findTestObject('Object Repository/Page_My Company  Salesforce/span_Parts Compliance')
+WebUI.waitForElementVisible(partsTab, 10)
 WebUI.waitForElementClickable(partsTab, 10)
 try {
     WebUI.click(partsTab)
 } catch (Exception e) {
-    WebElement element = WebUI.findWebElement(partsTab, 10)
-    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(element))
+    WebElement el = WebUI.findWebElement(partsTab, 10)
+    WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(el))
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
 }
 
-// === Click New button ===
-TestObject newBtn = findTestObject('null')
+// Click "New"
+TestObject newBtn = findTestObject('Object Repository/Page_Parts Compliance  Salesforce/div_New')
+WebUI.waitForElementVisible(newBtn, 10)
 WebUI.waitForElementClickable(newBtn, 10)
-WebElement newBtnElem = WebUI.findWebElement(newBtn, 10)
-WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(newBtnElem))
-WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(newBtnElem))
+try {
+    WebUI.click(newBtn)
+} catch (Exception e) {
+    WebElement el = WebUI.findWebElement(newBtn, 10)
+    WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(el))
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
+}
 
-// === Choose Material radio ===
+// Click "Material" radio
 TestObject materialRadio = findTestObject('Object Repository/Page_New Product  Salesforce/span_Material_slds-radio--faux')
+WebUI.waitForElementVisible(materialRadio, 10)
 WebUI.waitForElementClickable(materialRadio, 10)
-WebElement materialRadioElem = WebUI.findWebElement(materialRadio, 10)
-WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(materialRadioElem))
+try {
+    WebUI.click(materialRadio)
+} catch (Exception e) {
+    WebElement el = WebUI.findWebElement(materialRadio, 10)
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
+}
 
-// === Click Next button ===
-TestObject nextBtn = findTestObject('Object Repository/Page_New Product  Salesforce/span_Next (1)')
+// Click "Next"
+TestObject nextBtn = findTestObject('Object Repository/Page_New Product  Salesforce/button_Next')
+WebUI.waitForElementVisible(nextBtn, 10)
 WebUI.waitForElementClickable(nextBtn, 10)
-WebElement nextBtnElem = WebUI.findWebElement(nextBtn, 10)
-WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(nextBtnElem))
+try {
+    WebUI.click(nextBtn)
+} catch (Exception e) {
+    WebElement el = WebUI.findWebElement(nextBtn, 10)
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
+}
 
-// === Fill in Name field ===
-TestObject nameFieldTO = findTestObject('Object Repository/Page_New Product Parts  Salesforce/input__Name')
-WebElement nameField = WebUI.findWebElement(nameFieldTO, 10)
-WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(nameField))
-WebUI.executeJavaScript("arguments[0].focus();", Arrays.asList(nameField))
-nameField.sendKeys('gfndfgnh')
+// Fill "Name" field
+TestObject nameInput = findTestObject('Object Repository/Page_New Product Parts  Salesforce/input__Name')
+WebUI.waitForElementVisible(nameInput, 10)
+WebUI.setText(nameInput, 'katalon')
 
-// === Set Status Dropdown ===
+// Click "Status" dropdown
 TestObject statusDropdown = findTestObject('Object Repository/Page_New Product Parts  Salesforce/button_--None--')
-WebElement statusDropdownElem = WebUI.findWebElement(statusDropdown, 10)
-WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(statusDropdownElem))
+WebUI.waitForElementVisible(statusDropdown, 10)
+WebUI.waitForElementClickable(statusDropdown, 10)
+try {
+    WebUI.click(statusDropdown)
+} catch (Exception e) {
+    WebElement el = WebUI.findWebElement(statusDropdown, 10)
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
+}
 
-TestObject inactiveOption = findTestObject('Object Repository/Page_New Product Parts  Salesforce/span_Inactive')
-WebElement inactiveElem = WebUI.findWebElement(inactiveOption, 10)
-WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(inactiveElem))
+// Select "Active" option
+TestObject activeOption = findTestObject('Object Repository/Page_New Product Parts  Salesforce/span_Active')
+WebUI.waitForElementVisible(activeOption, 10)
+WebUI.waitForElementClickable(activeOption, 10)
+try {
+    WebUI.click(activeOption)
+} catch (Exception e) {
+    WebElement el = WebUI.findWebElement(activeOption, 10)
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
+}
 
-// === Save the record ===
+// Click "Save"
 TestObject saveBtn = findTestObject('Object Repository/Page_New Product Parts  Salesforce/button_Save')
-WebElement saveBtnElem = WebUI.findWebElement(saveBtn, 10)
-WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(saveBtnElem))
-WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(saveBtnElem))
-
-WebUI.closeBrowser()
+WebUI.waitForElementVisible(saveBtn, 10)
+WebUI.waitForElementClickable(saveBtn, 10)
+try {
+    WebUI.click(saveBtn)
+} catch (Exception e) {
+    WebElement el = WebUI.findWebElement(saveBtn, 10)
+    WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(el))
+    WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
+}

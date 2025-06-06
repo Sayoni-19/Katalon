@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Supplier List_slds-checkbox_faux</name>
+   <tag></tag>
+   <elementGuidId>442f0e45-1de5-4194-86cb-6317f9d5fb52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fw.opt-cont.slds-checkbox.slds-p-horizontal_medium.slds-p-vertical_x-small > label.slds-checkbox__label > span.slds-checkbox_faux</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slds-combobox_container-477']/div/div[2]/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.fw > .slds-checkbox__label > .slds-checkbox_faux >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4d63af69-46f3-47ab-b9b7-d3e6d6d860da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-checkbox_faux</value>
+      <webElementGuid>915a5390-ffd8-4564-b4fd-5f50dfab408e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slds-combobox_container-477&quot;)/div[@class=&quot;slds-combobox slds-dropdown-trigger slds-dropdown-trigger_click slds-is-open&quot;]/div[@class=&quot;slds-dropdown slds-dropdown_fluid slds-p-around_xx-small slds-p-around_none&quot;]/div[@class=&quot;fw slds-is-relative slds-scrollable&quot;]/div[@class=&quot;fw opt-cont slds-checkbox slds-p-horizontal_medium slds-p-vertical_x-small&quot;]/label[@class=&quot;slds-checkbox__label&quot;]/span[@class=&quot;slds-checkbox_faux&quot;]</value>
+      <webElementGuid>f2f587f3-4bbe-44ac-bf8f-67f95d8a43a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slds-combobox_container-477']/div/div[2]/div/div/label/span</value>
+      <webElementGuid>793e2039-d855-4229-8e20-83c79a5c3a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label/span</value>
+      <webElementGuid>61f18971-8c52-4da3-9253-2cc790e7b3ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>600ad753-e6c0-43e2-829a-0304a79844e7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#combobox-button-171-1-171 > span.slds-media__body</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//lightning-base-combobox-item[@id='combobox-button-171-1-171']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-171-1-171 > span.slds-media__body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4b71a4a7-1bf5-40da-8058-fba48bcea654</webElementGuid>
+      <webElementGuid>2004479e-e671-45fd-8336-9f06ffb53a76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-media__body</value>
-      <webElementGuid>c43a56e1-4a5f-4f5a-989c-857bef94e30f</webElementGuid>
+      <webElementGuid>52cf9d58-dd31-436d-8463-4f1bbff0a8c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Business License</value>
-      <webElementGuid>ff1e7fd6-795e-456f-bd09-15762b6f7b08</webElementGuid>
+      <webElementGuid>73a7a861-0b95-4281-a01c-faa6ed055864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combobox-button-171-1-171&quot;)/span[@class=&quot;slds-media__body&quot;]</value>
-      <webElementGuid>3fcd8a5f-2128-4108-8f58-c49d7a385d65</webElementGuid>
+      <webElementGuid>09a47d9f-0589-4733-afae-0a0a4515e657</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//lightning-base-combobox-item[@id='combobox-button-171-1-171']/span[2]</value>
-      <webElementGuid>b7b2bb0c-4f56-4a17-ad63-38c3dc5924f7</webElementGuid>
+      <webElementGuid>4f674220-1b8f-4160-8c49-c76686e40b64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[3]/following::span[2]</value>
-      <webElementGuid>08f080ba-c0af-4bef-8f69-7159c79b19e7</webElementGuid>
+      <webElementGuid>45fc72fc-4618-4ae4-b963-32c5791aaaa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[2]/following::span[7]</value>
-      <webElementGuid>2de29384-82e3-49b9-a8d6-3f02bd426293</webElementGuid>
+      <webElementGuid>e75971a6-53c1-4c82-8661-b55e8c44697b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional License'])[1]/preceding::span[3]</value>
-      <webElementGuid>fe28f2b6-be62-4043-a784-ba5e77ffc70a</webElementGuid>
+      <webElementGuid>0e9d891c-7058-4b31-881c-54e700911d54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-base-combobox-item[2]/span[2]</value>
-      <webElementGuid>7c0a6b56-b61a-48ba-9bf2-8edd548774bd</webElementGuid>
+      <webElementGuid>c26bb32b-d934-485c-8a5b-4daef136cef0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Business License' or . = 'Business License')]</value>
-      <webElementGuid>c6219650-7df8-4842-8938-9716c4eae2f4</webElementGuid>
+      <webElementGuid>a498adc4-552a-48d2-a161-f799f42ff369</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
