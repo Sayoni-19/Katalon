@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>dae3c1f2-9387-455b-ba4d-46224d33db3b</webElementGuid>
+      <webElementGuid>9c77a2ea-fbc5-459d-9158-db7d027506ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-truncate</value>
-      <webElementGuid>f3fb2296-eec2-442c-b3cd-0f7e585576a1</webElementGuid>
+      <webElementGuid>58621249-8f33-41e3-b070-951910a809e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Suppliers</value>
-      <webElementGuid>8c7f35f3-32f9-4907-9a9e-aef77a5268a5</webElementGuid>
+      <webElementGuid>1ce670fd-602e-4dcf-bcdd-aaf776f08eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/one-app-nav-bar[@class=&quot;slds-grid slds-has-flexi-truncate&quot;]/nav[@class=&quot;slds-context-bar__secondary navCenter&quot;]/div[@class=&quot;slds-grid slds-has-flexi-truncate navUL&quot;]/one-app-nav-bar-item-root[@class=&quot;navItem slds-context-bar__item slds-shrink-none&quot;]/a[@class=&quot;slds-context-bar__label-action dndItem&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
-      <webElementGuid>5b1d11b5-9d16-484f-8d4c-e87424d0a5b9</webElementGuid>
+      <webElementGuid>06198a36-4d66-4983-ad69-8b42b763fbd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Employees'])[1]/following::span[1]</value>
-      <webElementGuid>79ccc684-90b7-475e-acee-6a6dae0bf4f3</webElementGuid>
+      <webElementGuid>0ced879a-c409-4ff1-9227-f88c53ede0a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Company'])[1]/following::span[2]</value>
-      <webElementGuid>85541821-c64a-4fe6-adfc-54d9be05747d</webElementGuid>
+      <webElementGuid>55484ea0-2ce5-4ab6-8a6d-fe574ebed259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Contacts'])[1]/preceding::span[1]</value>
-      <webElementGuid>796070c3-bcb6-49d2-a151-db3a8a13d6b1</webElementGuid>
+      <webElementGuid>8b6bd2cd-c66f-4938-97c7-1544533f870a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessments'])[1]/preceding::span[2]</value>
-      <webElementGuid>f357b7a4-d6e9-49ce-86cf-4339058707fb</webElementGuid>
+      <webElementGuid>3927321d-a790-400f-ba43-7878c576247e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Suppliers']/parent::*</value>
-      <webElementGuid>e67e9c75-75a1-4a8e-8f24-29a313ba56fd</webElementGuid>
+      <webElementGuid>1f72adae-fc39-4e24-b6f0-a55776070d9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//one-app-nav-bar-item-root[3]/a/span</value>
-      <webElementGuid>ae4e3407-ff86-449e-8104-88ebbd9385b2</webElementGuid>
+      <webElementGuid>ca184e11-bdea-4d7f-8400-a343756c20ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Suppliers' or . = 'Suppliers')]</value>
-      <webElementGuid>30d7066c-6233-4012-9e86-837a53410c4f</webElementGuid>
+      <webElementGuid>7672f669-0b4e-42e0-8434-36491f95ee0a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

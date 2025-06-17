@@ -6,12 +6,12 @@
    <elementGuidId>320d8e95-e1d2-4cf1-8e8f-5c80f88efd6e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='865:0']/div/dl[3]/div/div/div/div/lightning-input/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>lightning-button-icon.slds-input__icon.slds-input__icon_right > button.slds-button.slds-button_icon.slds-button_icon-bare > lightning-primitive-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='865:0']/div/dl[3]/div/div/div/div/lightning-input/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>lightning-primitive-icon</value>
-      <webElementGuid>b25ee8c5-9a68-429d-8e06-a3318bc9de97</webElementGuid>
+      <webElementGuid>5803f47d-8aa7-4ad2-a200-8c453bad0260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>exportparts</name>
       <type>Main</type>
       <value>icon</value>
-      <webElementGuid>34ad4a72-3e69-410b-8eed-3120ecdbcd1f</webElementGuid>
+      <webElementGuid>90a3871a-1b25-4359-b069-f56e5e29b1a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>variant</name>
       <type>Main</type>
       <value>bare</value>
-      <webElementGuid>b54ad70b-e310-4d17-a274-588303416091</webElementGuid>
+      <webElementGuid>935f82dd-4ba1-49a3-be25-202bcb2d0fc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;865:0&quot;)/div[@class=&quot;slds-form slds-form_stacked slds-is-editing&quot;]/dl[@class=&quot;slds-grid slds-gutters_small mdp cols-2 forcePageBlockSectionRow&quot;]/div[@class=&quot;slds-grid slds-col slds-is-editing slds-has-flexi-truncate mdp forcePageBlockItem forcePageBlockItemEdit&quot;]/div[@class=&quot;slds-form-element slds-hint-parent&quot;]/div[@class=&quot;slds-form-element__control&quot;]/div[@class=&quot;uiInput uiInput--default&quot;]/lightning-input[@class=&quot;inputDate slds-form-element&quot;]/lightning-datepicker[1]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-size_1-of-1&quot;]/div[@class=&quot;slds-form-element__control slds-input-has-icon slds-input-has-icon_right&quot;]/lightning-button-icon[@class=&quot;slds-input__icon slds-input__icon_right&quot;]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-bare&quot;]/lightning-primitive-icon[1]</value>
-      <webElementGuid>e3fd6ef3-6aa1-4332-9f11-8f351a22a6fe</webElementGuid>
+      <webElementGuid>e9bf3b15-19e4-4f18-8b5d-5dc22a89058e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,47 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='865:0']/div/dl[3]/div/div/div/div/lightning-input/lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
-      <webElementGuid>285e1e58-d130-4ffb-a812-0b8b2989d3d1</webElementGuid>
+      <webElementGuid>97245fd4-475a-43b2-96c3-2f659dd50178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date'])[3]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>c72ce3d2-75cb-409a-8954-ece53bd68eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::lightning-primitive-icon[1]</value>
+      <webElementGuid>7c1bb4fc-1915-4ac9-90d2-7fabf5187c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for Due Date'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>912c5aaa-8a88-4ad3-ad39-45736b0d2175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format: 12/31/2024'])[1]/preceding::lightning-primitive-icon[1]</value>
+      <webElementGuid>13b1940c-56f5-4547-bd27-02fbea3457ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
+      <webElementGuid>e019cd45-43a7-47b9-8c5a-cd5916d03cdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,37 +110,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Due Date'])[4]/following::lightning-primitive-icon[1]</value>
       <webElementGuid>321f889b-d576-4dd9-9a59-a775456c709f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::lightning-primitive-icon[1]</value>
-      <webElementGuid>beb6026f-8c35-4742-a6ff-dd666f08ef8b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for Due Date'])[1]/preceding::lightning-primitive-icon[1]</value>
-      <webElementGuid>c1f752db-a760-434f-aebf-b5b508963aee</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format: 12/31/2024'])[1]/preceding::lightning-primitive-icon[1]</value>
-      <webElementGuid>baed6a08-c912-4c1e-a35d-887d99682021</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//lightning-datepicker/div/div/lightning-button-icon/button/lightning-primitive-icon</value>
-      <webElementGuid>db234b05-0aaa-499e-a5c2-f96238852b34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

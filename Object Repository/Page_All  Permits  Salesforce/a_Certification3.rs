@@ -6,12 +6,12 @@
    <elementGuidId>49db2b2c-e335-418a-81e8-c8a619633a38</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='brandBand_2']/div/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr[3]/th/span/span/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>tr:nth-of-type(3) > th.slds-cell-edit.cellContainer > span.slds-grid.slds-grid--align-spread > span.lvm-grid-no-fade-out.slds-truncate.forceOutputFormulaHtml > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brandBand_2']/div/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr[3]/th/span/span/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1d6ec17e-fd01-4bfa-a1f6-4a07bfe62785</webElementGuid>
+      <webElementGuid>eceec896-8cdc-4426-896e-d3a667c0d1f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/lightning/r/a0RfJ000000e2r7/view</value>
-      <webElementGuid>e9e5cc62-badc-48b2-8b51-2281851c524f</webElementGuid>
+      <webElementGuid>b0410f06-6966-42b2-b9cc-9e829ea775ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>target</name>
       <type>Main</type>
       <value>_Self</value>
-      <webElementGuid>860628c4-1904-4b89-9ac5-24e68a9e18df</webElementGuid>
+      <webElementGuid>ec84d400-7350-4f16-972e-674476c5af6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-aura-rendered-by</name>
       <type>Main</type>
       <value>921:0</value>
-      <webElementGuid>47e740b0-6953-4ae8-9b8a-197c5c6d7810</webElementGuid>
+      <webElementGuid>2805d1b0-c773-4494-a0a2-0556fc44d025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Certification3</value>
-      <webElementGuid>dedceb0c-403e-4e6c-8f5f-84935a545867</webElementGuid>
+      <webElementGuid>6d8f9e32-ae17-4161-beb3-cff4fde05bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/div[@class=&quot;forceObjectHomeDesktop&quot;]/div[@class=&quot;test-listViewManager slds-card slds-card_boundary slds-grid slds-grid_vertical slds-grid--vertical forceListViewManager&quot;]/div[@class=&quot;slds-grid listDisplays safari-workaround-anchor&quot;]/div[@class=&quot;slds-grid listViewContainer safari-workaround&quot;]/div[@class=&quot;slds-col slds-no-space forceListViewManagerPrimaryDisplayManager&quot;]/div[@class=&quot;undefined hideSelection forceListViewManagerGrid&quot;]/div[@class=&quot;listViewContent slds-table--header-fixed_container slds-table_header-fixed_container&quot;]/div[@class=&quot;uiScroller scroller-wrapper scroll-bidirectional native&quot;]/div[@class=&quot;scroller actionBarPlugin&quot;]/div[@class=&quot;slds-table_edit_container slds-table--edit_container slds-is-relative  inlineEdit--disabled keyboardMode--active inlineEditGrid forceInlineEditGrid&quot;]/table[@class=&quot;slds-table forceRecordLayout slds-table_header-fixed slds-table--header-fixed slds-table_edit slds-table--edit slds-table_bordered slds-table--bordered resizable-cols slds-table--resizable-cols uiVirtualDataTable&quot;]/tbody[1]/tr[3]/th[@class=&quot;slds-cell-edit cellContainer&quot;]/span[@class=&quot;slds-grid slds-grid--align-spread&quot;]/span[@class=&quot;lvm-grid-no-fade-out slds-truncate forceOutputFormulaHtml&quot;]/a[1]</value>
-      <webElementGuid>bfa7b03e-008e-498f-a907-8598f99aac90</webElementGuid>
+      <webElementGuid>cbb53550-f91a-4e69-a10d-bd1fe2856965</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='brandBand_2']/div/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/div/div/table/tbody/tr[3]/th/span/span/a</value>
-      <webElementGuid>2b68b769-0df0-48f1-abb6-a14c047984c2</webElementGuid>
+      <webElementGuid>0d2bc8b0-005e-41a2-948c-cac13bda9693</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Certification3')]</value>
-      <webElementGuid>1423d26c-b0be-478b-a9cd-2c51a2b4a26d</webElementGuid>
+      <webElementGuid>a316a288-8223-48c6-a424-14ff01945fa8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Actions'])[2]/following::a[1]</value>
-      <webElementGuid>634c54a2-617e-4eff-9238-596aa47b6969</webElementGuid>
+      <webElementGuid>e50c2b86-97ca-40a0-98bf-c19c39125fe4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RI-Permit-0023'])[1]/following::a[2]</value>
-      <webElementGuid>035e6ed8-06c2-4e9d-a0dd-b9aea9b81d3a</webElementGuid>
+      <webElementGuid>0b152813-425a-4ad4-9e4f-4eeb00a92e71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Permit'])[2]/preceding::a[1]</value>
-      <webElementGuid>e65f45a6-b5a2-4ce9-8c8e-380ebe6ce98a</webElementGuid>
+      <webElementGuid>6b4243c7-8c12-414e-b767-5ebd39db9fb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RI-Permit-0024'])[1]/preceding::a[1]</value>
-      <webElementGuid>01ac9783-f032-4841-a98f-90d406e252ed</webElementGuid>
+      <webElementGuid>c8c60ba6-d8f7-4aa2-aa39-254770b5f8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Certification3']/parent::*</value>
-      <webElementGuid>ad423feb-e20f-46ba-850f-778b156ada9c</webElementGuid>
+      <webElementGuid>5c3b2c25-874c-4532-bce2-2bddd833045f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/lightning/r/a0RfJ000000e2r7/view')]</value>
-      <webElementGuid>4928c81c-2886-4291-accf-b3a512f717c2</webElementGuid>
+      <webElementGuid>222d4b69-d387-4191-be4b-7bafacc24d6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/th/span/span/a</value>
-      <webElementGuid>5e9f54a7-4563-4d25-b238-e3cc7fed7a04</webElementGuid>
+      <webElementGuid>a1537981-9a5f-4582-bb6e-cc592a4a100f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/lightning/r/a0RfJ000000e2r7/view' and (text() = 'Certification3' or . = 'Certification3')]</value>
-      <webElementGuid>03b6ecab-02a9-4f59-838d-65d748a2b9a5</webElementGuid>
+      <webElementGuid>d741617f-6c9c-40a0-821c-6a432eeb52b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

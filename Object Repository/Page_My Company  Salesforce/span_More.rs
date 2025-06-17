@@ -6,12 +6,12 @@
    <elementGuidId>551594df-220c-430b-a5b3-5014d2f055de</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Concern'])[1]/following::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.slds-p-right_small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Concern'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a6572329-1698-41ce-993c-b7b79326435b</webElementGuid>
+      <webElementGuid>7bb4ee8e-9a21-4ee1-a678-bef41d07389d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-p-right_small</value>
-      <webElementGuid>0fe55c5d-c624-4730-a442-353704ccd9ed</webElementGuid>
+      <webElementGuid>cb7451d6-168f-4dad-b661-2f425ae742be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>7d1ca87b-34c4-482b-8545-29cdd82295ba</webElementGuid>
+      <webElementGuid>3007e6b0-4109-455e-ab20-03b8e877164c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>More</value>
-      <webElementGuid>6d64e53b-5150-438d-b274-ec46f658e98d</webElementGuid>
+      <webElementGuid>cddbd52d-548a-4cdc-845b-9e89566217ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/one-app-nav-bar[@class=&quot;slds-grid slds-has-flexi-truncate&quot;]/nav[@class=&quot;slds-context-bar__secondary navCenter&quot;]/div[@class=&quot;slds-grid slds-has-flexi-truncate navUL&quot;]/div[@class=&quot;more-item slds-context-bar__item slds-context-bar__dropdown-trigger slds-shrink-none&quot;]/one-app-nav-bar-menu-button[@class=&quot;slds-grid slds-grid_vertical-stretch more-button slds-dropdown-trigger slds-dropdown-trigger_click&quot;]/a[@class=&quot;slds-button slds-button_reset slds-context-bar__label-action&quot;]/span[@class=&quot;slds-p-right_small&quot;]</value>
-      <webElementGuid>5ad1ea87-09b0-40e6-a16b-3d1a9fd7cd4a</webElementGuid>
+      <webElementGuid>f48be4ff-d438-4959-8687-2786c9c96cbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quality Concern'])[1]/following::span[1]</value>
-      <webElementGuid>b6f50538-e6f9-4ed2-927c-a610bc2942dd</webElementGuid>
+      <webElementGuid>6b4ef939-e4f4-4ea9-a50b-a6d4dd76d458</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Files List'])[1]/following::span[2]</value>
-      <webElementGuid>220a211d-3ddb-400c-87c8-d4fdd5d8434c</webElementGuid>
+      <webElementGuid>6bdcdb7c-99cf-49c3-97e2-fbf602cb660a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more navigation items'])[1]/preceding::span[2]</value>
-      <webElementGuid>33853baa-b91c-419c-ae81-240dc4133ef0</webElementGuid>
+      <webElementGuid>747b05e3-0bd8-49dc-8559-27b8e6319b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit nav items'])[1]/preceding::span[3]</value>
-      <webElementGuid>3c2a1dad-bab6-488e-b1cd-c9c650f5b927</webElementGuid>
+      <webElementGuid>76192397-6a19-474e-a4e8-2e070ade9a58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='More']/parent::*</value>
-      <webElementGuid>22e4998a-6c64-498b-9904-be613f21ab0e</webElementGuid>
+      <webElementGuid>31f078a6-1f59-4ae1-9fc6-9ebda40b12e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/one-app-nav-bar-menu-button/a/span</value>
-      <webElementGuid>4fd385fe-96d0-42e3-b870-45eb01ecdf75</webElementGuid>
+      <webElementGuid>c9a117cc-e3cc-4126-ac39-6ed3f052eb94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'More' or . = 'More')]</value>
-      <webElementGuid>54e8334b-aae6-442c-aa1c-8bece959fa76</webElementGuid>
+      <webElementGuid>f5b0ef46-b6ed-46db-a9a5-1c31879ae6bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

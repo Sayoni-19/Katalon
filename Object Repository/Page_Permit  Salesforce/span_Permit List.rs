@@ -6,12 +6,12 @@
    <elementGuidId>8ffdb7e3-1bde-4f1e-bc75-cd2588b3cc81</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='dashboard-0FKfJ0000003pKnWAI-0']/div/div/div/div/div/div/div/div/div/div/div/div[2]/div[8]/div/div/div/div/div/div/div/div/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.gridLayoutWidget.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard-0FKfJ0000003pKnWAI-0']/div/div/div/div/div/div/div/div/div/div/div/div[2]/div[8]/div/div/div/div/div/div/div/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>aa508517-17f6-4ce5-9b7d-340119267a25</webElementGuid>
+      <webElementGuid>a5b6665a-338e-4826-b553-4ae1a69c65bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gridLayoutWidget text</value>
-      <webElementGuid>cb95850f-60a6-46c9-a02e-5b0555a2b303</webElementGuid>
+      <webElementGuid>1dbea0ae-fb53-402d-8a50-d644121d5279</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Permit List</value>
-      <webElementGuid>f6cddc09-8d01-431d-b0da-ce1f4d69889d</webElementGuid>
+      <webElementGuid>5e4c99bc-5301-4f6b-838e-4a86aa7d404c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dashboard-0FKfJ0000003pKnWAI-0&quot;)/div[@class=&quot;edge-builder-ii&quot;]/div[@class=&quot;dashboard-container&quot;]/div[@class=&quot;dashboard-builder-body&quot;]/div[@class=&quot;dashboard-builder-body-fill&quot;]/div[@class=&quot;dashboard-builder-body-content&quot;]/div[@class=&quot;dashboard-grid-container&quot;]/div[@class=&quot;layout-outer-container&quot;]/div[@class=&quot;layout-inner-container&quot;]/div[@class=&quot;grid-layout-container&quot;]/div[@class=&quot;grid-layout&quot;]/div[@class=&quot;widget-grid&quot;]/div[@class=&quot;widgets&quot;]/div[@class=&quot;widget-container widget-container_container_1&quot;]/div[@class=&quot;widget&quot;]/div[@class=&quot;dashboard-widget css-13udsys&quot;]/div[@class=&quot;containerWidget container-widget background-image widgetReady finalState&quot;]/div[@class=&quot;widgets&quot;]/div[@class=&quot;widget-container widget-container_link_16&quot;]/div[@class=&quot;widget contained-widget&quot;]/div[@class=&quot;dashboard-widget css-13udsys&quot;]/div[@class=&quot;linkWidget css-6evt50 widgetReady finalState&quot;]/a[@class=&quot;css-811e3s&quot;]/span[@class=&quot;gridLayoutWidget text&quot;]</value>
-      <webElementGuid>9b79a881-c1a9-4791-9114-d6ae13b27ed7</webElementGuid>
+      <webElementGuid>604f2832-c69c-4537-856f-60fbee913d64</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dashboard-0FKfJ0000003pKnWAI-0']/div/div/div/div/div/div/div/div/div/div/div/div[2]/div[8]/div/div/div/div/div/div/div/div/a/span</value>
-      <webElementGuid>06d12da0-2039-4fa2-a490-2e27775c0a9b</webElementGuid>
+      <webElementGuid>80ba817f-29c8-47aa-b10a-f458ac9ac278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropdown icon to open menu'])[4]/following::span[2]</value>
-      <webElementGuid>da2d46c4-a24b-438f-9148-55bbda9f3281</webElementGuid>
+      <webElementGuid>2c00d6f7-7d3b-453d-8183-4653d6d7edba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Renewal In 30 Days'])[1]/following::span[3]</value>
-      <webElementGuid>0c22d55b-e379-4dc1-a686-11032f22f4b3</webElementGuid>
+      <webElementGuid>75ad9ef0-ae87-4b51-aab7-866570679f34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Permit'])[1]/preceding::span[1]</value>
-      <webElementGuid>c5fdff43-6d4a-4ff7-886a-991f7d47d35b</webElementGuid>
+      <webElementGuid>b5dad016-7a95-4c46-afe1-2b547d532724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Q﻿﻿uick Links'])[1]/preceding::span[3]</value>
-      <webElementGuid>776db387-814e-43e7-90ea-9f8e4eadb582</webElementGuid>
+      <webElementGuid>d90d4df6-ce23-4c3b-9a78-f33c693e959e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Permit List']/parent::*</value>
-      <webElementGuid>4085d06b-999a-493b-a22d-e45631f663a2</webElementGuid>
+      <webElementGuid>b2623b32-a5a9-488c-bac2-8f9a0f21b06c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a/span</value>
-      <webElementGuid>ea5e9892-11a6-41f8-a085-ef58c49ab2da</webElementGuid>
+      <webElementGuid>05ca4a24-09c4-48a5-bc55-73ca79204499</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Permit List' or . = 'Permit List')]</value>
-      <webElementGuid>41567f98-2cd2-4155-826a-de8a85a62d09</webElementGuid>
+      <webElementGuid>f9ab8632-069f-4855-8f44-618f37e4271b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
