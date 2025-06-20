@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Use
 WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw'), 'Rhythm@123')
 WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login'))
 
-// --- Post-login actions with visibility + fallback ---
+// --- Post-login actions ---
 WebUI.waitForPageLoad(30)
 WebUI.delay(3)
 
@@ -79,6 +79,11 @@ try {
     WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
 }
 
+// --- Switch to iframe to access form fields ---
+//TestObject partsIframe = findTestObject('Object Repository/Page_New Product Parts  Salesforce/iframe_ProductPartsForm')
+//WebUI.waitForElementPresent(partsIframe, 10)
+//WebUI.switchToFrame(partsIframe, 10)
+
 // Fill "Name" field
 TestObject nameInput = findTestObject('Object Repository/Page_New Product Parts  Salesforce/input__Name')
 WebUI.waitForElementVisible(nameInput, 10)
@@ -117,3 +122,6 @@ try {
     WebUI.executeJavaScript("arguments[0].scrollIntoView(true);", Arrays.asList(el))
     WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(el))
 }
+
+// --- Switch back to main content ---
+WebUI.switchToDefaultContent()

@@ -6,12 +6,12 @@
    <elementGuidId>8360f52d-8de4-4c49-8662-d6f0cbccfdc0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td.slds-is-today > span.slds-day</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='modal-content-id-1-1']/div/div/lightning-layout/slot/lightning-layout-item[3]/slot/lightning-input-field/lightning-input/lightning-datepicker/div/div/lightning-calendar/div/lightning-focus-trap/slot/table/tbody/tr/td[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.slds-is-today > span.slds-day</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

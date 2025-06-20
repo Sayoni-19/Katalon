@@ -6,12 +6,12 @@
    <elementGuidId>8f8133f0-d775-48a4-8c07-13efc01b5742</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#a06fJ0000046Tt3QAE-11 > span.slds-p-top_x-small.slds-media__body > span.slds-listbox__option-text.slds-listbox__option-text_entity</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='a06fJ0000046Tt3QAE-11']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#a06fJ0000046Tt3QAE-11 > span.slds-p-top_x-small.slds-media__body > span.slds-listbox__option-text.slds-listbox__option-text_entity</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

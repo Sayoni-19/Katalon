@@ -6,12 +6,12 @@
    <elementGuidId>a3c12594-8791-4962-a5fb-d1f20db0374e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#combobox-button-157-2-157 > span.slds-media__body</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//lightning-base-combobox-item[@id='combobox-button-157-2-157']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-157-2-157 > span.slds-media__body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

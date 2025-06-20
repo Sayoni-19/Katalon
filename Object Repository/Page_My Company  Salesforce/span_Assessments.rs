@@ -6,12 +6,12 @@
    <elementGuidId>71592d30-59bd-4093-aba3-3d68db66fcca</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Contacts'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>36d7e498-67f4-44da-a256-c8f937e3bbce</webElementGuid>
+      <webElementGuid>33fca2b1-a1f2-4105-bae4-400973b86e0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-truncate</value>
-      <webElementGuid>aceba54e-5c9b-4d4e-9700-f97550bf800f</webElementGuid>
+      <webElementGuid>c5eb2b2b-4e37-418d-a819-0d97b11babd4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Assessments</value>
-      <webElementGuid>d6473e30-9f85-49fc-af42-e3dfa8a2df58</webElementGuid>
+      <webElementGuid>244074bd-ea04-4fc9-811e-d76b01fa3c81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;desktop container forceStyle oneOne navexDesktopLayoutContainer lafAppLayoutHost forceAccess&quot;]/div[@class=&quot;viewport&quot;]/section[@class=&quot;layoutContent stage panelSlide&quot;]/div[@class=&quot;none navexStandardManager&quot;]/div[@class=&quot;slds-no-print oneAppNavContainer&quot;]/one-appnav[1]/div[@class=&quot;slds-context-bar&quot;]/one-app-nav-bar[@class=&quot;slds-grid slds-has-flexi-truncate&quot;]/nav[@class=&quot;slds-context-bar__secondary navCenter&quot;]/div[@class=&quot;slds-grid slds-has-flexi-truncate navUL&quot;]/one-app-nav-bar-item-root[@class=&quot;navItem slds-context-bar__item slds-shrink-none&quot;]/a[@class=&quot;slds-context-bar__label-action dndItem&quot;]/span[@class=&quot;slds-truncate&quot;]</value>
-      <webElementGuid>1c7d0e3a-907f-4b6d-9f1d-210a81eb04a3</webElementGuid>
+      <webElementGuid>f046c50f-a193-43df-aa9d-d02100ef0c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Assessments</value>
+      <webElementGuid>1694a6e0-b362-46c2-8d8f-f0b7f0db85bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a2d10e6c07900b152291c6138b8fef50</value>
+      <webElementGuid>0d1a6c30-225e-4255-be4c-71fec9ff376b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Contacts'])[1]/following::span[1]</value>
-      <webElementGuid>6f28a0b5-d539-4f19-89c3-0661e176d1e4</webElementGuid>
+      <webElementGuid>08475c2c-5393-4e26-80d1-3631664a4083</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Suppliers'])[1]/following::span[2]</value>
-      <webElementGuid>5d445f58-6969-4d4d-a51d-579d73716ce0</webElementGuid>
+      <webElementGuid>a63246ba-2473-407d-a06b-1445d550ba91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Incident Management'])[1]/preceding::span[1]</value>
-      <webElementGuid>99af63d4-c496-4de3-8264-bd799aedc763</webElementGuid>
+      <webElementGuid>16c8030e-455a-4fa4-9020-ff5436d80237</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Parts Compliance'])[1]/preceding::span[2]</value>
-      <webElementGuid>1a2a3b0c-701d-4b73-b5f4-eb3f73d2b0bf</webElementGuid>
+      <webElementGuid>7823c4e2-b7aa-42e8-981f-e6523b0c86ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Assessments']/parent::*</value>
-      <webElementGuid>b2b09d78-e8e6-424a-b1ca-4b89c2519aae</webElementGuid>
+      <webElementGuid>28bf50cf-7baa-4227-b506-9d7a73af6d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//one-app-nav-bar-item-root[5]/a/span</value>
-      <webElementGuid>7fc797e7-1016-4cb9-9392-c1e3dc876c9f</webElementGuid>
+      <webElementGuid>a5df2143-eccb-4382-93ac-a8b8bf1bdd94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +125,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Assessments' or . = 'Assessments')]</value>
-      <webElementGuid>7a5f67d7-33d7-4ba6-ab93-8f7b603195c8</webElementGuid>
+      <webElementGuid>5a29af12-3172-4508-8749-95e73fc79024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = 'Assessments']//span[@class and contains(concat(' ', normalize-space(@class), ' '), ' slds-truncate ')]</value>
+      <webElementGuid>92c56cc9-3cf7-4897-9830-676f53bb3390</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

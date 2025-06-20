@@ -6,12 +6,12 @@
    <elementGuidId>77c55da5-4e7c-4e20-b41d-627169beff01</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.slds-button.slds-button_brand</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.slds-button.slds-button_brand</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

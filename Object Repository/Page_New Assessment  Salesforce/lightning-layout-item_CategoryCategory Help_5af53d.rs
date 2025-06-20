@@ -6,12 +6,11 @@
    <elementGuidId>1bd39e95-b22c-4b9f-ac40-8884f2f4f0ae</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='modal-content-id-1-1']/div/div/lightning-layout/slot/lightning-layout-item[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

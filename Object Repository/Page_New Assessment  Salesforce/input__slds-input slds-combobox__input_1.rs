@@ -6,12 +6,12 @@
    <elementGuidId>5d5f3ab6-40be-4b31-b0be-16af83e48298</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.slds-combobox__form-element.slds-input-has-icon.slds-input-has-icon_right > input.slds-input.slds-combobox__input</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='modal-content-id-1-1']/div/div/lightning-layout/slot/lightning-layout-item[7]/slot/c-custom-combobox/div/div/div/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slds-combobox__form-element.slds-input-has-icon.slds-input-has-icon_right > input.slds-input.slds-combobox__input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

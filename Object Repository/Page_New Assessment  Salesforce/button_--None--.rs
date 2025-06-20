@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>59303d88-0ad0-44aa-8551-a7fb20c8455c</webElementGuid>
+      <webElementGuid>bc0420bd-f402-4aa5-8b7b-2b5f0be1ff9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-combobox__input slds-input_faux fix-slds-input_faux slds-combobox__input-value</value>
-      <webElementGuid>697df056-bb22-44c3-a8d0-45aeb7c9bbf5</webElementGuid>
+      <webElementGuid>78541ce8-73cc-492c-8b32-b8d21ff3d003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>combobox-button-157</value>
-      <webElementGuid>7686c509-3f32-40b8-9507-29f1da4fc2de</webElementGuid>
+      <webElementGuid>a1832e6f-2f2a-4d96-89b2-e226db3cd5c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5452e70e-77c4-40da-a52a-7afc47f839df</webElementGuid>
+      <webElementGuid>903c57ba-6e5e-4095-b95b-b2201709b9ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>37a4eb35-57ff-413b-9482-108773d9bf61</webElementGuid>
+      <webElementGuid>8107169c-aeb6-4ed0-aa5a-4fcb86706f53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>c150f643-8d5d-4b27-8bc1-329d59bcd2ae</webElementGuid>
+      <webElementGuid>8ac68629-be07-46ab-8936-a4da5883797a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Rhythm__Category__c</value>
-      <webElementGuid>fde87e3d-f068-4ae2-ad61-474487515d88</webElementGuid>
+      <webElementGuid>554df613-6891-4c8c-b2ae-f47d670c7098</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>42ee8c65-3bb5-4fab-a5c5-86b10114687e</webElementGuid>
+      <webElementGuid>a9614544-3eb1-4818-bce5-e67ca40f7cf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>--None--</value>
-      <webElementGuid>8aff5492-c31d-4b87-94df-3f4410ec7c74</webElementGuid>
+      <webElementGuid>d2e3b41b-b95d-49c2-b5b4-88bd829e9e35</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>78c77305-637a-4d61-8cf1-052abf1ef603</webElementGuid>
+      <webElementGuid>3f9c8e02-f500-4d22-9fb9-0a9f8d38bdee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Category</value>
-      <webElementGuid>849843c3-1204-4335-bb0d-3d61b9ef0ca5</webElementGuid>
+      <webElementGuid>ab15308e-e3f4-4969-b2bb-85fe3bc45649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>16e472e9-d817-41c1-9f66-bd88b74a450e</webElementGuid>
+      <webElementGuid>7c4a72a9-cfa8-40c9-b940-e448737c8447</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>part</name>
       <type>Main</type>
       <value>input-button</value>
-      <webElementGuid>cfc55312-8c16-4920-a170-9b8e05459149</webElementGuid>
+      <webElementGuid>402c5381-7a68-4fea-888e-b4650792bcd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>dropdown-element-157</value>
-      <webElementGuid>324974e8-bb2e-45c2-b906-d3f08aa277b1</webElementGuid>
+      <webElementGuid>fa154bef-6fc1-432b-856e-4d170b895ca0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -141,7 +141,7 @@
       <name>text</name>
       <type>Main</type>
       <value>--None--</value>
-      <webElementGuid>86f0e5ab-bd36-4278-a8e0-154c2525279b</webElementGuid>
+      <webElementGuid>b0b673c8-db8a-4169-b17a-7a3c337f0715</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,15 +149,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;combobox-button-157&quot;)</value>
-      <webElementGuid>d06fc76f-fcfb-4dca-b36b-8cf40ae1448d</webElementGuid>
+      <webElementGuid>8eaf7022-630b-4b02-bfd3-318881f1059f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-position-id</name>
+      <type>Main</type>
+      <value>lgcp-1000010</value>
+      <webElementGuid>77c45156-f85c-42e4-8742-2623750d3702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9380965a-8b09-46b7-9d01-c47a739e73fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>help-text-153</value>
+      <webElementGuid>9c40d7d3-0e38-4dc4-8c81-954a8c63ce4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_New Assessment  Salesforce/iframe_Edit nav items_vfFrameId_1749121533765</value>
-      <webElementGuid>58e6245c-003a-4373-b469-827ca1c73364</webElementGuid>
+      <value>Object Repository/Page_New Assessment  Salesforce/iframe_Edit nav items_vfFrameId_1750319407493</value>
+      <webElementGuid>4b6ae05a-ca7c-4941-ba92-400516026047</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -165,7 +189,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='combobox-button-157']</value>
-      <webElementGuid>9487bc16-29ab-447a-b2d8-25b313048c4d</webElementGuid>
+      <webElementGuid>21e1812d-9924-4182-8e8e-9bc66fc426ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +197,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-content-id-1-1']/div/div/lightning-layout/slot/lightning-layout-item[5]/slot/lightning-input-field/lightning-picklist/lightning-combobox/div/div/lightning-base-combobox/div/div/div/button</value>
-      <webElementGuid>72755c66-5465-4060-9795-f4e464151382</webElementGuid>
+      <webElementGuid>ae234232-2c2a-4b6c-8fae-774aec07d8d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +205,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category of assessment.'])[1]/following::button[1]</value>
-      <webElementGuid>7767b373-05fe-4be1-9b47-2d3a73f0d232</webElementGuid>
+      <webElementGuid>712c2267-7c65-4c71-a273-b10ad61c247d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +213,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Category Help Info'])[1]/following::button[1]</value>
-      <webElementGuid>0a44d09b-cdde-48e7-86e5-95f4be0b891e</webElementGuid>
+      <webElementGuid>09fe9017-39e4-4980-80c8-65f7ad16619f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='--None--'])[2]/preceding::button[1]</value>
+      <webElementGuid>9e2f35b9-beab-47db-8a5c-0a86ec2f42d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button</value>
+      <webElementGuid>4aa118aa-2dba-42c5-a394-305e825fa599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'combobox-button-157' and @type = 'button' and @name = 'Rhythm__Category__c' and (text() = '--None--' or . = '--None--')]</value>
+      <webElementGuid>f1e14d21-da9d-4bcd-b4ed-5d43e4cb35bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,13 +246,5 @@
       <type>Main</type>
       <value>//lightning-base-combobox/div/div/div/button</value>
       <webElementGuid>7121d90f-e92e-4c75-ac65-f84fe63c729a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = 'combobox-button-157' and @type = 'button' and @name = 'Rhythm__Category__c' and (text() = '--None--' or . = '--None--')]</value>
-      <webElementGuid>5523cb9a-a577-4c0a-843a-9b08f844ae37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
