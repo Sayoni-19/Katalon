@@ -23,6 +23,7 @@ def safeClick(TestObject obj) {
 // ===== LOGIN (Unchanged) =====
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://rhythm-qa-enterprise.my.salesforce.com/')
+WebUI.maximizeWindow()
 WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Username_username'), '00dfj00000fdkisuah_john1234@yopmail.com')
 WebUI.setText(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_pw'), 'Rhythm@123')
 WebUI.click(findTestObject('Object Repository/Page_Login  Salesforce/input_Password_Login'))

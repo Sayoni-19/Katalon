@@ -6,12 +6,12 @@
    <elementGuidId>6d68eadb-aede-413a-bb53-76217f8dab7d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-145</value>
+         <key>XPATH</key>
+         <value>//input[@type = 'text' and @id = 'input-145' and @name = 'Rhythm__Issue_Date__c']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-145']</value>
+         <key>CSS</key>
+         <value>#input-145</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f5af3f4d-8f5f-4373-b087-b116280026a6</webElementGuid>
+      <webElementGuid>56ff681f-73f9-409c-af37-1223c2236b64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>slds-input</value>
-      <webElementGuid>e7b10db6-a726-4f9c-9d3b-dafb6241dd4e</webElementGuid>
+      <webElementGuid>0f0936b7-ec3e-4ad4-8765-55b692d59ee3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>82448f8b-45cd-488c-8f47-dfc3e21fe0d6</webElementGuid>
+      <webElementGuid>c6408dd6-3a6e-4ccc-9682-be951c448a28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-145</value>
-      <webElementGuid>28c3a822-da49-4204-8db7-426e5155ccf1</webElementGuid>
+      <webElementGuid>e17c6a66-fdfe-43bc-bddf-c892e21c55df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>part</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>da5d249c-365a-4996-a4b8-11fc0e7456cb</webElementGuid>
+      <webElementGuid>3eb09df7-a720-4323-a900-e13f88024ee3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Rhythm__Issue_Date__c</value>
-      <webElementGuid>534c197c-2286-4a04-a364-757469bd9719</webElementGuid>
+      <webElementGuid>39c32ebc-d5a3-4832-b910-35a0543524e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>71b0e269-ebfa-4f08-8e59-71102725a78c</webElementGuid>
+      <webElementGuid>a44e4bb8-d256-4dfd-9209-2014eae37e81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>error-message-145 fmt-text-145</value>
-      <webElementGuid>73b2ab0a-2799-4c02-9302-28225d251064</webElementGuid>
+      <webElementGuid>19827307-21d6-445e-ad85-fec255965f02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-145&quot;)</value>
-      <webElementGuid>a5226987-aa6d-4c02-86ca-b03b617e0bc1</webElementGuid>
+      <webElementGuid>432cc40e-ee41-4309-ae35-9c9fa2c3724a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-145']</value>
-      <webElementGuid>a5296c7e-2abd-45a8-aa8f-29dae34c69b6</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'input-145' and @name = 'Rhythm__Issue_Date__c']</value>
+      <webElementGuid>a74e6b49-135c-4ec9-ae44-b04b93a7243b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//dl[@id='field-section-content-87']/slot/flexipage-column2/div/slot/flexipage-field[6]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-date-time/lightning-input/lightning-datetimepicker/div/fieldset/div/div/div/lightning-datepicker/div/div/input</value>
-      <webElementGuid>978981b9-c489-406c-b735-1025ae832393</webElementGuid>
+      <webElementGuid>a5795b4e-de9f-4fd5-9970-3b8bdb23c7ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//lightning-datepicker/div/div/input</value>
-      <webElementGuid>705b499f-b7f2-4d45-89a6-0b3e41927015</webElementGuid>
+      <webElementGuid>99d27a97-e0a8-48c4-a610-596b643f71fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'input-145' and @name = 'Rhythm__Issue_Date__c']</value>
-      <webElementGuid>5540b547-2ae8-46e3-a72c-8efe66df7bae</webElementGuid>
+      <webElementGuid>94a8f889-86cf-4a60-bceb-a0749ef74f8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
